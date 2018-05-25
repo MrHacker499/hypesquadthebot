@@ -1,0 +1,8 @@
+{
+    "handles": {
+        "title": "#PrismBot #HappyNewYears",
+        "prefix": "pr!",
+        "icon_url": "https://cdn.discordapp.com/avatars/369681763104194580/a20053614bc75e8b6484a5fc3a048cfc.png?size=2048",
+        "invalid_command": "https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Close_Icon_Dark-128.png"
+    }
+}
