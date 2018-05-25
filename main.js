@@ -56,7 +56,7 @@ if (err) console.error(err)
 });
 
 bot.on("guildCreate", guild => {
-	bot.user.setGame(`Type pr!help for help! | in ${bot.guilds.size} servers! | Square & ThatMajesticGuy`);
+	bot.user.setGame(`Type !help for help! | in ${bot.guilds.size} servers! | v1.10`);
   const channel = guild.channels.find('name', 'general');
   var embed = new Discord.RichEmbed()
   .setTitle("Hello! :wave:")
